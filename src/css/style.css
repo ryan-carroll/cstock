@@ -845,5 +845,5 @@ and (max-width : 480px) {
 }
 
 .cslogo {
-max-height 50px;
+min-height 50px;
 }
