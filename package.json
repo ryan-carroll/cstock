@@ -1,0 +1,38 @@
+{
+  "name": "carrollstock",
+  "version": "0.0.1",
+  "description": "carrollstock website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.4.3",
+     "npm": "2.15.1"
+  },
+  "keywords": [
+    "carrollstock"
+  ],
+  "author": "Ryan Carroll",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "inspector": "^0.5.0",
+    "mongodb": "^2.1.18",
+    "morgan": "^1.7.0",
+    "node": "0.0.0",
+    "nodemon": "^1.9.2",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-carroll/carrollstock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryan-carroll/carrollstock/issues"
+  },
+  "homepage": "https://github.com/ryan-carroll/carrollstock#readme"
+}
