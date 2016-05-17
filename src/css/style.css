@@ -15,6 +15,7 @@ Primary use:	One page
 4. Sections
 5. Footer
 6. Components
+7. Custom
 
 [Color codes]
 
@@ -841,4 +842,8 @@ and (max-width : 480px) {
 	margin-top: 7px;
 	font-size: 20px;
 }
+}
+
+.logocs {
+max-height 50px;
 }
