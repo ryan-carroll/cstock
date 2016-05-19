@@ -134,7 +134,7 @@ section ul li:before {
 --------------------*/
 
 .navbar-brand {
-	height: 65px;
+	height: 80px;
 }
 
 .navbar-default {
@@ -210,7 +210,6 @@ section ul li:before {
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
 		font-size: 1.5em;
-		height: 60px;
 	}
 }
 
