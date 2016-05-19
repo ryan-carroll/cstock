@@ -133,6 +133,10 @@ section ul li:before {
 2. Navigation
 --------------------*/
 
+.navbar-brand {
+	height: 65px;
+}
+
 .navbar-default {
 	background-color: #222;
 	border-color: transparent
