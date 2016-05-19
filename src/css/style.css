@@ -213,6 +213,10 @@ section ul li:before {
 	}
 }
 
+.navbar-toggle {
+	margin-top: 14px;
+}
+
 /*--------------------
 3. Header
 --------------------*/
