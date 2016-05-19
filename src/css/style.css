@@ -213,7 +213,7 @@ section ul li:before {
 	}
 }
 
-@media (max-width:480px) {
+@media (min-width:1px) {
 	.navbar-brand {
 		height: 45px;
 	}
