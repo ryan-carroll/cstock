@@ -210,7 +210,7 @@ section ul li:before {
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
 		font-size: 1.5em;
-		margin-top: 10px;
+		height: 60px;
 	}
 }
 
